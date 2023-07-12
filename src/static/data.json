@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "community": "r/react",
+      "owner": "u/jhoneDoe",
+      "vote": 1,
+      "comment": 1,
+      "content": "These tools allow us to optimize our code by avoiding unnecessary re-renders, improving performance, and storing values efficiently.",
+      "heading": "Using React's useMemo",
+      "img": "../../public/img/Screenshot_20230204_133509.png"
+    },
+    {
+      "id": 2,
+      "community": "r/react",
+      "owner": "u/jhoneDoe",
+      "vote": 1,
+      "comment": 1,
+      "content": "These tools allow us to optimize our code by avoiding unnecessary re-renders, improving performance, and storing values efficiently.",
+      "heading": "Using React's useMemo",
+      "img": "../../public/img/Screenshot_20230204_133509.png"
+    },
+    {
+      "id": 3,
+      "community": "r/react",
+      "owner": "u/jhoneDoe",
+      "vote": 1,
+      "comment": 1,
+      "content": "These tools allow us to optimize our code by avoiding unnecessary re-renders, improving performance, and storing values efficiently.",
+      "heading": "Using React's useMemo",
+      "img": "../../public/img/Screenshot_20230204_133509.png"
+    }
+  ]
+}
